@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux File System.md",
+                "file": "linux/Man -K search_term.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux File System.md",
+                "file": "linux/Man -K search_term.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux File System.md",
+                "file": "linux/Man -K search_term.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux File System.md"
+                "file": "linux/Man -K search_term.md"
               }
             }
           }
@@ -148,5 +148,10 @@
     }
   },
   "active": "31e51ff2d79dbb20",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "linux/PWD.md",
+    "linux/README.md",
+    "linux/Command History.md",
+    "linux/Distro.md"
+  ]
 }

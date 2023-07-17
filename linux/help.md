@@ -1,0 +1,1 @@
+type `help <command>` this only works for commands that are built-in to the shell

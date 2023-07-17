@@ -1,0 +1,1 @@
+the type command used `type <command>` informs you whether a command is an exe or one that is built into the shell.
